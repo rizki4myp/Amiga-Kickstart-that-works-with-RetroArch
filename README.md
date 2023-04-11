@@ -1,3 +1,3 @@
 # Amiga-Kickstart-that-works-with-RetroArch
-
-Just placce them in "RetroArch\system"
+1) Extract the zip file
+2) Just placce each of them in "RetroArch\system"
